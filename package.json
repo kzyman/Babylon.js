@@ -17,7 +17,12 @@
     "main": "dist/preview release/babylon.js",
     "files": [
         "package.json",
-        "dist"
+        "dist/preview release/babylon.d.ts",
+        "dist/preview release/es6.js",
+        "dist/preview release/babylon.js",
+        "dist/preview release/babylon.max.js",
+        "dist/preview release/babylon.worker.js",
+        "dist/preview release/Oimo.js",
         "readme.md"
     ],
     "typings": "dist/preview release/babylon.d.ts",
